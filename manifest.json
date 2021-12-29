@@ -1,0 +1,10 @@
+{
+    "name": "Fuck Sacrifice Restrictions",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/ScottWilson0903/InscryptionExampleMod",
+    "description": "Ever wanted to put more sigils on a card you already put sigils on? This mod removes the restrictions on sacrificing.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Inscryption-5.4.1701",
+        "API_dev-API-1.13.0"
+    ]
+}
